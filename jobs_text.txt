@@ -1,0 +1,10 @@
+job_hello,1m
+job_bye,2m
+job_print_numbers,1m 30s
+job_print_letters,2s
+job_reverse_string,5s
+job_sum_numbers,10s
+job_multiply,12s
+job_greet_user,13s
+job_calculate_square,6s
+job_display_time,7s
